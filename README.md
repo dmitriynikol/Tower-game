@@ -1,2 +1,3 @@
-This is our attempt at game-making, but this isn't a passion project, we just have to make a game because we have to pass university requirements.
-(c) Tower Game devs 2025
+Список Участников: Брикошин Фёдор, Егорова Екатерина, Мерещяков Фёдор, Морозова Елизавета, Николаев Дмитрий
+Игра в жанре "платформер", игрок проходит сквозь уровни, побеждает врагов и получает новые способности, чтобы продвинуться дальше.
+Ресурсы: https://github.com/mowen88/Cyberpunk-Metroidvania
