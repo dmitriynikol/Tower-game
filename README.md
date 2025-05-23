@@ -19,10 +19,10 @@ tsx, tmx…
 Просто запустите main.py
 # Ресурсы
 ## В разработке были использованы знания полученные из этих видео
-https://youtu.be/6iUYLqIrV7s?si=LHAPuroay6HPMuam  
-https://youtu.be/KhVwVFdolJs?si=PdI_sDS88mmV6CKI  
-https://youtu.be/nn2MXwplMZA?si=dewwosVbbW62-o5y  
-https://youtu.be/RISNX2USJvk?si=_4RIALIFbBVKNqGI  
-https://youtu.be/a1hHOVIkrcc?si=AumrbTexrgQyxc3r
+[5 Things I Wish I Knew Before Making a Game with Pygame | DevLog](https://youtu.be/6iUYLqIrV7s?si=LHAPuroay6HPMuam)    
+[Cyberpunk Metroidvania made with Python and Pygame](https://youtu.be/KhVwVFdolJs?si=PdI_sDS88mmV6CKI)    
+[The World Design of Super Metroid | Boss Keys](https://youtu.be/nn2MXwplMZA?si=dewwosVbbW62-o5y)    
+[How to Design GREAT Metroidvania Levels](https://youtu.be/RISNX2USJvk?si=_4RIALIFbBVKNqGI)   
+[The World Design of Castlevania: Symphony of the Night | Boss Keys](https://youtu.be/a1hHOVIkrcc?si=AumrbTexrgQyxc3r)
 ## Также сначала за основу игры был взят код из этого репозитория, но впоследствии он не был особо использован
 https://github.com/mowen88/Cyberpunk-Metroidvania
